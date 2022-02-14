@@ -6,8 +6,8 @@ function App() {
   return (
    
     <>
-    <Navbar />
-         <div>
+    <Navbar name={'Univare'} />
+    <div>
 
       Hello ,Welcome to this website
     </div>
