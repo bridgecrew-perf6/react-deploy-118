@@ -11,7 +11,7 @@ function App() {
 
       Hello ,Welcome to this website
     </div>
-    
+    <Tree />
     </>
     
   );
